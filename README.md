@@ -16,7 +16,9 @@
 
 ### 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 ♔︎
 
-[![telegram badge](https://telegra.ph/file/a4278ea5d9900f88f3de3.jpg)](https://t.me/RichRealm)
+[![telegram badge](https://img.shields.io/badge/RICHREALM-30302f?style=for-the-badge&logo=telegram)](https://t.me/RichRealm)
+[![telegram badge](https://img.shields.io/badge/BAAPLUCIFER-30302f?style=for-the-badge&logo=telegram)](https://t.me/LUCYY_xZz)
+
 
 ## ❤︎ 𝐋𝐔𝐗𝐂𝐋𝐔𝐁 𝐆𝐎𝐃 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 ❤︎
 ## ☠︎︎ ᴀ ғᴀsᴛ, sᴍᴏᴏᴛʜ, sᴇᴄᴜʀᴇ ᴀɴᴅ ᴅᴇᴀᴅʟʏ sᴘᴀᴍ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ Tᴇʟᴇᴛʜᴏɴ Lɪʙʀᴀʀʏ.
@@ -28,7 +30,7 @@
 
 ###  ᯾ String Session ( Generate From Here )
 
-[![telegram badge](https://telegra.ph/file/9896187781e66649d21fd.jpg)](https://t.me/StrinGENBlueBot)
+[![telegram badge](https://img.shields.io/badge/StrinGEN_bot-30302f?style=for-the-badge&logo=telegram)](https://t.me/StrinGENBlueBot)
 
   - Use This Telegram Bot To Generate String Session
   - Generate 𝗧𝗘𝗟𝗘𝗧𝗛𝗢𝗡 String Session
