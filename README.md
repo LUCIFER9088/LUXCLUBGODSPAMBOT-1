@@ -6,10 +6,9 @@
 </p>
 
 # THE FASTEST SPAM BOT 🤟
-# 1 DEPLOY = 25 BOTs 🔥 ( ᴜsᴇ 25 ᴅɪғғᴇʀᴇɴᴛ ɪᴅs sᴇssɪᴏɴ ᴡʜɪʟᴇ ᴅᴇᴘʟᴏʏɪɴɢ )
+### 1 DEPLOY = 25 BOTs 🔥 ( ᴜsᴇ 25 ᴅɪғғᴇʀᴇɴᴛ ɪᴅs sᴇssɪᴏɴ ᴡʜɪʟᴇ ᴅᴇᴘʟᴏʏɪɴɢ )
 
 ## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗨𝘀 
-                          
 <a href="https://t.me/luxclub_sergio"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
 <a href="https://t.me/bluebotarena"><img src="https://img.shields.io/badge/Join-OFFICIAL%20GROUP-red.svg?logo=Telegram"></a>
 
