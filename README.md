@@ -6,7 +6,7 @@
 </p>
 
 # THE FASTEST SPAM BOT 🤟
-### 1 DEPLOY = 25 BOTs 🔥 ( ᴜsᴇ 25 ᴅɪғғᴇʀᴇɴᴛ ɪᴅs sᴇssɪᴏɴ ᴡʜɪʟᴇ ᴅᴇᴘʟᴏʏɪɴɢ )
+#### 1 DEPLOY = 25 BOTs 🔥 ( ᴜsᴇ 25 ᴅɪғғᴇʀᴇɴᴛ ɪᴅs sᴇssɪᴏɴ ᴡʜɪʟᴇ ᴅᴇᴘʟᴏʏɪɴɢ )
 
 ## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁 𝗨𝘀 
 <a href="https://t.me/luxclub_sergio"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
@@ -20,7 +20,7 @@
 
 
 ## ❤︎ 𝐋𝐔𝐗𝐂𝐋𝐔𝐁 𝐆𝐎𝐃 𝐒𝐏𝐀𝐌 𝐁𝐎𝐓 ❤︎
-## ☠︎︎ ᴀ ғᴀsᴛ, sᴍᴏᴏᴛʜ, sᴇᴄᴜʀᴇ ᴀɴᴅ ᴅᴇᴀᴅʟʏ sᴘᴀᴍ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ Tᴇʟᴇᴛʜᴏɴ Lɪʙʀᴀʀʏ.
+##### ☠︎︎ ᴀ ғᴀsᴛ, sᴍᴏᴏᴛʜ, sᴇᴄᴜʀᴇ ᴀɴᴅ ᴅᴇᴀᴅʟʏ sᴘᴀᴍ ʙᴏᴛ ʙᴀsᴇᴅ ᴏɴ Tᴇʟᴇᴛʜᴏɴ Lɪʙʀᴀʀʏ.
 
 
 ## ☢︎︎ Deploy on Heroku 
